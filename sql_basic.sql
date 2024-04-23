@@ -10,4 +10,18 @@
 -- Window Functions 
 --- q1
 
+Question 1:
+
+
+
+
+Data : 
+
+
+
+
+Ssl query : 
+
+
+
 
